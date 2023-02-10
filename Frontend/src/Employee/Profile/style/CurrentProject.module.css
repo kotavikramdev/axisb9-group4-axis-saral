@@ -1,0 +1,25 @@
+.currentproject {
+    margin: 3rem 10rem 0 10rem;
+    box-shadow: 0px 0px 40px dimgrey;
+    border-radius: 1rem;
+}
+
+.card {
+    text-align: center;
+}
+
+.cardheader {
+    font-size: x-large;
+    font-weight: bold;
+    color: #AE275F;
+}
+
+.cardtitle {
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(57, 57, 57);
+}
+
+.cardtext {
+    color: black;
+}

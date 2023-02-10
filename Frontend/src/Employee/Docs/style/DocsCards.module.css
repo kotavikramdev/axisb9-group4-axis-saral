@@ -1,0 +1,6 @@
+.docscardsholder {
+    display: flex;
+    justify-content: space-between;
+    margin: 5rem 5rem 3rem 5rem;
+    height: 21.3rem;
+}

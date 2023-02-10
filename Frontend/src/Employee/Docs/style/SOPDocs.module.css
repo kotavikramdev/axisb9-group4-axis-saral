@@ -1,0 +1,47 @@
+.docs {
+    margin: 3rem 20rem 5.3rem 20rem;
+    padding-bottom: 3rem;
+    border: 5px solid #AE275F;
+    box-shadow: 0px 0px 40px dimgrey;
+    border-radius: 1rem;
+}
+
+.docs h3 {
+    text-align: center;
+    color: #AE275F;
+    text-shadow: 1px 1px dimgray;
+    font-weight: bold;
+    font-size: xx-large;
+    padding: 2rem;
+}
+
+.doc {
+    margin: 0 10rem 0 10rem;
+    height: 5.5rem;
+    display: flex;
+    border: 5px solid dimgrey;
+    border-radius: 1rem;
+}
+
+.doc img {
+    width: 5rem;
+    height: 5rem;
+}
+
+.doc div {
+    align-self: center;
+}
+
+.docmail {
+    display: flex;
+}
+
+.docname {
+    width: 24rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+.mail span {
+    font-weight: bold;
+}

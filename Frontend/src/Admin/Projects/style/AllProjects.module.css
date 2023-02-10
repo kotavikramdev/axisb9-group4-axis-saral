@@ -1,0 +1,20 @@
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .search input {
+    display: flex;
+    flex-direction: column;
+    width: 280px;
+    padding: 8px;
+    margin: 10px 0px;
+    border-radius: 5px;
+    border: 1px solid gray;
+  }
+
+  .myCards{
+    display: "flex";
+    flex-wrap: "wrap";
+  }

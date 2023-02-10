@@ -1,0 +1,67 @@
+.project{
+    height: 30px;
+}
+
+.navigationBar{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: #97144d;
+    height: 90vh;
+    
+}
+
+.navLink{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #97144d
+}
+
+.statement{
+    width: 100%;}
+
+.item{
+    background-color: #97144d;
+    height: 80px;
+    color: #97144d ;
+    width: 100%;
+    --bs-nav-link-hover-color:#fff;
+    border-top: 2px solid white;
+    
+}
+
+.navLength{
+    width: 100%;
+}
+
+.navTabs Link{
+    height: 100px;
+}
+
+.navTabs{
+    background-color:#97144d;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    padding: 5px;
+    --bs-nav-link-color:white;
+    --bs-link-hover-color: #fff;
+}
+
+.content{
+    background-color: #f6f6f6;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.projectDetails{
+    background-color: #f6f6f6;
+}

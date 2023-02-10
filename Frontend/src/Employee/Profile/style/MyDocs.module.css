@@ -1,0 +1,101 @@
+.docs {
+    margin: 3rem 20rem 2rem 20rem;
+    padding-bottom: 3rem;
+    border: 5px solid #AE275F;
+    box-shadow: 0px 0px 40px dimgrey;
+    border-radius: 1rem;
+}
+
+.docs h3 {
+    text-align: center;
+    color: #AE275F;
+    text-shadow: 1px 1px dimgray;
+    font-weight: bold;
+    font-size: xx-large;
+    padding: 2rem;
+}
+
+.doc {
+    margin: 0 10rem 0 10rem;
+    height: 5.5rem;
+    display: flex;
+    border: 5px solid dimgrey;
+    border-radius: 1rem;
+}
+
+.doc img {
+    width: 5rem;
+    height: 5rem;
+}
+
+.doc div {
+    align-self: center;
+}
+
+.docmail {
+    display: flex;
+}
+
+.docname {
+    width: 24rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+.mail span {
+    font-weight: bold;
+}
+
+.allmail {
+    padding-top: 2rem;
+    text-align: center;
+}
+
+.allmail span {
+    font-weight: bold;
+}
+
+.salaryslips {
+    width: 35rem;
+    margin: 1rem auto;
+}
+
+.salarydoc {
+    height: 5.5rem;
+    display: flex;
+    border: 5px solid dimgrey;
+    border-radius: 1rem;
+}
+
+.salarydoc img {
+    width: 5rem;
+    height: 5rem;
+}
+
+.salarydoc div {
+    align-self: center;
+}
+
+.salarydocmail {
+    display: flex;
+}
+
+.salarydocname {
+    width: 24rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+.salarymail {
+    margin-left: -2rem;
+}
+
+.salarymail span {
+    font-weight: bold;
+}
+
+.accordion-button {
+    color: #ffffff;
+    background-color: #29008a;
+    box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
+}

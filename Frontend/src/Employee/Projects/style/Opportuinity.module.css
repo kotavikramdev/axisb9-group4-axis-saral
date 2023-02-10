@@ -1,0 +1,28 @@
+.opportuinity{
+    background-color: white;
+    height: 40vh;
+    width: 80vh;
+    box-shadow: 5px 5px 5px 5px #d6d6d6;
+    border: 5px solid;
+    border-color: #97144d;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.opportuinity h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 34px;
+}
+
+.opportuinity p{
+    padding-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+}

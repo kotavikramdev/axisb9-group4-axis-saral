@@ -1,0 +1,75 @@
+.bo {
+    background: rgb(236, 234, 234);
+    height: 80vh;
+}
+
+.profile {
+    padding: 80px 0;
+}
+
+.card:hover {
+    background-color: darkgray;
+    transition: 0.7s;
+}
+
+.cardh {
+    margin-bottom: 1rem;
+    min-height: 200px;
+    flex-grow: 1;
+    height: 100%;
+}
+
+.img {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 1;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    border: 7px solid #fff;
+    margin-top: -80px;
+}
+
+.text h3 {
+    padding: 10px 0;
+    text-align: center;
+}
+
+.text h4 {
+    font-size: 16px;
+    text-align: center;
+    padding-bottom: 0.5rem;
+}
+
+.but {
+    height: 100%;
+    margin-bottom: 1rem;
+}
+
+.h {
+    margin-bottom: 1rem;
+}
+
+.btn {
+    color: #fff;
+    background-color: #d8345a;
+    border-color: #ebe9e9d7;
+}
+
+.btn:hover {
+    background-color: rgb(166, 54, 99);
+}
+
+.coloredTab {
+    background-color: #d8345a;
+}
+
+.deletebutton {
+    align-self: center;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 0.5rem;
+}

@@ -1,0 +1,12 @@
+.flowchart{
+    height: 30rem;
+    width: 60rem;
+    border-radius: 15px;
+    background-color: #fff;
+    border: 5px solid #97144d;
+}
+
+.flowchart img{
+    height: 28rem;
+    width: 58rem;
+}

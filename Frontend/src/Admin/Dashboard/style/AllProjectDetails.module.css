@@ -1,0 +1,57 @@
+.allprojects {
+    margin: 0 1rem 0 1rem;
+    border-radius: 1rem;
+    width: 25rem;
+}
+
+.projectcard {
+    text-align: center;
+}
+
+.projectcardheader {
+    font-size: x-large;
+    font-weight: bold;
+    color: #AE275F;
+}
+
+.projectcardtitle {
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(57, 57, 57);
+}
+
+.projectcardtext {
+    color: black;
+}
+
+.project {
+    display: flex;
+    border: 1px solid gray;
+    border-radius: 1rem;
+    margin-bottom: 0.2rem;
+    text-align: left;
+}
+
+.project div {
+    align-self: center;
+    width: -webkit-fill-available;
+}
+
+.project div div {
+    display: flex;
+    justify-content: space-between;
+    padding: 0rem 2rem;
+    width: -webkit-fill-available;
+}
+
+.project h5 {
+    color: #AE275F;
+    font-weight: bold;
+    margin: 0.5rem 0 0.2rem 0;
+}
+
+.project h6 {
+    color: dimgray;
+    margin: 0 0 0.5rem 0;
+    padding: 0 2rem;
+}

@@ -1,0 +1,38 @@
+.details {
+    text-align: center;
+    display: flex;
+    margin-top: 2rem;
+    margin-left: 20rem;
+    margin-right: 10rem;
+}
+
+.image img {
+    width: 20rem;
+    border-radius: 100rem;
+    border: 10px solid #AE275F;
+    box-shadow: 0px 0px 40px dimgrey;
+}
+
+.employeeinfo {
+    position: absolute;
+    border: 10px solid #AE275F;
+    box-shadow: 0px 0px 40px dimgrey;
+    padding-left: 25rem;
+    padding-right: 10rem;
+    padding-top: 3rem;
+    padding-bottom: 2.1rem;
+    border-radius: 100rem;
+}
+
+.name {
+    margin-bottom: 1rem;
+}
+
+.name h1 {
+    color: #AE275F;
+    font-weight: bold;
+}
+
+.name h2 {
+    color: dimgrey;
+}

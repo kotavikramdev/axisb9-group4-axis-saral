@@ -1,0 +1,32 @@
+.line {
+    height: 1rem;
+    background-color: rgb(119, 119, 119);
+}
+
+.footer {
+    background-color: #AE275F;
+    display: flex;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    justify-content: space-between;
+}
+
+.copyright {
+    color: white;
+    font-weight: bold;
+}
+
+.social {
+    margin-left: 3rem;
+}
+
+.social span {
+    margin: 1rem;
+    font-size: x-large;
+}
+
+.terms span {
+    margin: 1rem;
+}

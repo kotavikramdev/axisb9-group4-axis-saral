@@ -1,0 +1,11 @@
+.admindocscard {
+    width: 25rem;
+    text-align: center;
+    box-shadow: 0px 0px 30px dimgrey;
+}
+
+.admindocscardheader {
+    font-size: x-large;
+    font-weight: bold;
+    color: #AE275F;
+}
